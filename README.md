@@ -1,2 +1,2 @@
-# Python
-My first python program using object-oriented principles and using database connectivity
+# Python Movie Theatre Program
+My first python program using object-oriented principles and using database connectivity. This program uses a menu in the CLI to navigate the program. The business module contains the Movie class which is used as a Movie object in the ui (Main) module. The db module contains the code to connect to the MovieTheatre (Final.sqlite) Database. The database was modeled and created by me, and the various SQL statements in the db module magically make everything work on the back end as the user chooses to insert, delete, and update the movies in the CLI menu.
